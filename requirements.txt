@@ -1,0 +1,6 @@
+openai-agents
+pydantic>=2
+gradio
+python-dotenv
+apscheduler
+pytest
