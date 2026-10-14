@@ -5,3 +5,4 @@ __pycache__/
 data/*.db
 data/*.sqlite
 .pytest_cache/
+tests/test_service_and_ui.py
